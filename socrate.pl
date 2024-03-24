@@ -1,2 +1,0 @@
-homme(platon).
-homme(socrate).
